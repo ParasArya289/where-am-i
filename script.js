@@ -64,7 +64,7 @@ const whereAmI = async function (country) {
   }
 };
 btn.addEventListener('click', function () {
-  whereAmI('bharat');
+  whereAmI('USA');
 });
 
 
